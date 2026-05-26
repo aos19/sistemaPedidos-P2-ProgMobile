@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
       ),
 
       // Se houver uma sessão ativa, a tela Home será apresentada, caso não, será a tela de login
-      home: sessaoAtiva != null ? const HomeScreen() : const LoginScreen(),
+      //home: sessaoAtiva != null ? const HomeScreen() : const LoginScreen(),
     );
   }
 }
