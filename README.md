@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-# sistema_pedidos_app
 
-A new Flutter project.
+# Sistema simples de Hospedagens - Flutter
 
-## Getting Started
+## Descrição Iniicial
 
 This project is a starting point for a Flutter application.
 
